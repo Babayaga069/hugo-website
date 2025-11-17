@@ -1,0 +1,4 @@
+baseURL = "https://example.com/"
+languageCode = "de-de"
+title = "Meine Website"
+theme = "ananke"
