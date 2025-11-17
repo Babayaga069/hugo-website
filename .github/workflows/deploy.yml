@@ -21,12 +21,3 @@ jobs:
       
       - name: Build
         run: hugo --minify
-      
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: hugo-website
-          directory: public
-          branch: main
