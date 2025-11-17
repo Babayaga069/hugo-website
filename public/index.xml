@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meine Website</title>
-    <link>https://example.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Meine Website</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 17 Nov 2025 23:11:50 +0000</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Postwelcome</title>
-      <link>https://example.com/posts/postwelcome/</link>
+      <title>Post #1</title>
+      <link>http://localhost:1313/posts/postwelcome/</link>
       <pubDate>Mon, 17 Nov 2025 23:11:50 +0000</pubDate>
-      <guid>https://example.com/posts/postwelcome/</guid>
-      <description>&lt;p&gt;mein Gott, das steht jetzt hier im Internet!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/postwelcome/</guid>
+      <description>&lt;h2 id=&#34;idee&#34;&gt;Idee&lt;/h2&gt;&#xA;&lt;p&gt;In erster Linie soll hier getestet werden, die Moeglichkeiten von statischen Websites, Websites allgemein,&#xA;Markdown in einer solchen funktion und techniken des Webdevelopments.&lt;/p&gt;&#xA;&lt;h3 id=&#34;prozess--ein-kurzer-blick-in-die-zukunft&#34;&gt;Prozess &amp;amp; ein kurzer Blick in die Zukunft&lt;/h3&gt;&#xA;&lt;p&gt;-&amp;gt; o_o&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mein erster Blogpost</title>
-      <link>https://example.com/posts/mein-erster-post/</link>
+      <link>http://localhost:1313/posts/mein-erster-post/</link>
       <pubDate>Mon, 17 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://example.com/posts/mein-erster-post/</guid>
+      <guid>http://localhost:1313/posts/mein-erster-post/</guid>
       <description>&lt;h1 id=&#34;willkommen-auf-meinem-blog-&#34;&gt;Willkommen auf meinem Blog! 👋&lt;/h1&gt;&#xA;&lt;p&gt;Das ist mein erster richtig cooler Blogpost!&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-kann-ich-hier-machen&#34;&gt;Was kann ich hier machen?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✍️ Blog-Artikel schreiben&lt;/li&gt;&#xA;&lt;li&gt;🎨 Mit Markdown formatieren&lt;/li&gt;&#xA;&lt;li&gt;🚀 Automatisch deployen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nächste-schritte&#34;&gt;Nächste Schritte&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Mehr Posts schreiben&lt;/li&gt;&#xA;&lt;li&gt;Custom Domain verbinden&lt;/li&gt;&#xA;&lt;li&gt;Theme anpassen&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Viel Spaß! 🎉&lt;/p&gt;</description>
     </item>
   </channel>
