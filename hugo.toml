@@ -2,3 +2,8 @@ baseURL = "https://example.com/"
 languageCode = "de-de"
 title = "Meine Website"
 theme = "ananke"
+
+[params]
+  github = "https://github.com/Babayaga069"
+  instagram = "https://www.instagram.com/shindy/"
+
