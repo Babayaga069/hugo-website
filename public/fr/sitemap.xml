@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/frcategories/</loc>
+    <loc>//localhost:1313/fr/frcategories/</loc>
   </url><url>
-    <loc>/fr/frseries/</loc>
+    <loc>//localhost:1313/fr/frseries/</loc>
   </url><url>
-    <loc>/fr/frtags/</loc>
+    <loc>//localhost:1313/fr/frtags/</loc>
   </url>
 </urlset>
