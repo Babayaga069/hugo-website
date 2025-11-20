@@ -11,6 +11,7 @@ buildExpired = false
 enableEmoji = true
 pygmentsUseClasses = true
 mainsections = ["posts", "papermod"]
+defaultContentLanguage = "en"
 
 [minify]
 disableXML = true
