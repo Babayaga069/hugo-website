@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1314/categories/</loc>
+    <loc>https://netscope-oversight.pages.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1314/</loc>
+    <loc>https://netscope-oversight.pages.dev/</loc>
   </url><url>
-    <loc>http://localhost:1314/posts/mein-erster-post/</loc>
+    <loc>https://netscope-oversight.pages.dev/posts/mein-erster-post/</loc>
   </url><url>
-    <loc>http://localhost:1314/posts/</loc>
+    <loc>https://netscope-oversight.pages.dev/posts/</loc>
   </url><url>
-    <loc>http://localhost:1314/tags/</loc>
+    <loc>https://netscope-oversight.pages.dev/tags/</loc>
   </url>
 </urlset>
