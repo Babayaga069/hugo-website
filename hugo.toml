@@ -1,4 +1,4 @@
-seURL = "https://netscope-oversight.pages.dev/"
+baseURL = "https://netscope-oversight.pages.dev/"
 title = "PaperMod"
 copyright = "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 theme = "PaperMod"
