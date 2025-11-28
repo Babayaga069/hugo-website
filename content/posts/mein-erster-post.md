@@ -1,5 +1,4 @@
 ---
-title: "Mein erster Post"
+title: "Meine Socials"
 draft: false
 ---
-Inhalt hier
