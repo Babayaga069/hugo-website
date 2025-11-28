@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://netscope-oversight.pages.dev/categories/</loc>
+    <loc>http://localhost:37443/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netscope-oversight.pages.dev/</loc>
+    <loc>http://localhost:37443/posts/sets/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netscope-oversight.pages.dev/posts/mein-erster-post/</loc>
+    <loc>http://localhost:37443/posts/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netscope-oversight.pages.dev/posts/</loc>
+    <loc>http://localhost:37443/categories/</loc>
   </url><url>
-    <loc>https://netscope-oversight.pages.dev/tags/</loc>
+    <loc>http://localhost:37443/posts/mein-erster-post/</loc>
+  </url><url>
+    <loc>http://localhost:37443/tags/</loc>
   </url>
 </urlset>

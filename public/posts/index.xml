@@ -2,17 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Netscope-oversight</title>
-    <link>https://netscope-oversight.pages.dev/posts/</link>
+    <link>http://localhost:37443/posts/</link>
     <description>Recent content in Posts on Netscope-oversight</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <atom:link href="https://netscope-oversight.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:37443/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mein erster Post</title>
-      <link>https://netscope-oversight.pages.dev/posts/mein-erster-post/</link>
+      <title>Meine Sets</title>
+      <link>http://localhost:37443/posts/sets/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37443/posts/sets/</guid>
+      <description>&lt;p&gt;Set #1:&lt;/p&gt;
+&lt;audio controls&gt;
+  &lt;source src=&#34;http://localhost:37443/audio/01%20REC-2025-10-24.wav&#34; type=&#34;audio/wav&#34;&gt;
+  Dein Browser unterstuetzt das Audio-Element nicht.
+&lt;/audio&gt;</description>
+    </item>
+    <item>
+      <title>Meine Socials</title>
+      <link>http://localhost:37443/posts/mein-erster-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://netscope-oversight.pages.dev/posts/mein-erster-post/</guid>
-      <description>&lt;p&gt;Inhalt hier&lt;/p&gt;</description>
+      <guid>http://localhost:37443/posts/mein-erster-post/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
