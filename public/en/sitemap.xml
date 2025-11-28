@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/welcome/</loc>
+    <loc>https://netscope-oversight.pages.dev/en/posts/welcome/</loc>
     <lastmod>2025-11-17T23:54:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://netscope-oversight.pages.dev/en/posts/</loc>
     <lastmod>2025-11-17T23:54:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/postwelcome/</loc>
+    <loc>https://netscope-oversight.pages.dev/en/posts/postwelcome/</loc>
     <lastmod>2025-11-17T23:11:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mein-erster-post/</loc>
+    <loc>https://netscope-oversight.pages.dev/en/posts/mein-erster-post/</loc>
     <lastmod>2025-11-17T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://netscope-oversight.pages.dev/en/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://netscope-oversight.pages.dev/en/en/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://netscope-oversight.pages.dev/en/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://netscope-oversight.pages.dev/en/tags/</loc>
   </url>
 </urlset>

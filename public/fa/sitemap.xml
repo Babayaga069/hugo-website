@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fa/facategories/</loc>
+    <loc>https://netscope-oversight.pages.dev/fa/facategories/</loc>
   </url><url>
-    <loc>http://localhost:1313/fa/faseries/</loc>
+    <loc>https://netscope-oversight.pages.dev/fa/faseries/</loc>
   </url><url>
-    <loc>http://localhost:1313/fa/fatags/</loc>
+    <loc>https://netscope-oversight.pages.dev/fa/fatags/</loc>
   </url>
 </urlset>
