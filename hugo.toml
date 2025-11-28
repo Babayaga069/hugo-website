@@ -13,7 +13,7 @@ pygmentsUseClasses = true
 mainsections = ["posts", "papermod"]
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [minify]
 disableXML = true
