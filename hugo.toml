@@ -5,14 +5,14 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [params]
-ShowShareButtons = true
-ShowReadingTime = true
+#ShowShareButtons = true
+#ShowReadingTime = true
 defaultTheme = "auto"
 
 [params.profileMode]
   enabled = true
   title = "Netscope-oversight"
-  subtitle = "This is subtitle"
+  #subtitle = "This is subtitle"
   imageUrl = "/img/me-smoke.jpg"
   imageTitle = "Profilbild"
   imageWidth = 120
@@ -39,6 +39,6 @@ defaultTheme = "auto"
   url = "https://linkedin.com/in/deinprofil"
 
 
-[markup.goldmark.renderer]
-unsafe = true
+#[markup.goldmark.renderer]
+#unsafe = true
 
