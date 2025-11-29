@@ -5,8 +5,8 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [params]
-#ShowShareButtons = true
-#ShowReadingTime = true
+ShowShareButtons = true
+ShowReadingTime = true
 defaultTheme = "auto"
 
 [params.profileMode]
@@ -39,6 +39,6 @@ defaultTheme = "auto"
   url = "https://linkedin.com/in/deinprofil"
 
 
-#[markup.goldmark.renderer]
-#unsafe = true
+[markup.goldmark.renderer]
+unsafe = true
 
