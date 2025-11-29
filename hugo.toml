@@ -23,6 +23,10 @@ defaultTheme = "auto"
   url = "/archive"
 
 [[params.profileMode.buttons]]
+  name = "Posts"
+  url = "/posts/"
+
+[[params.socialIcons]]
   name = "Github"
   url = "https://github.com/Babayaga069"
 
