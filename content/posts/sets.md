@@ -1,6 +1,6 @@
 ---
-title: "Meine Sets"
-date: 2025-11-28
+title: "S1 - BabyBlue"
+date: 2025-11-29
 draft: false
 cover:
   image: "/img/Screenshot 2025-11-29 124841.png"
