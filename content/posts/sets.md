@@ -7,6 +7,5 @@ draft: false
 Set #1:
 
 <audio controls>
-  <source src="https://www.dropbox.com/scl/fi/zfqnzoyjp1cds33pxw34g/Alberto-Tolo-Rave-ain-t-a-crime.flac?rlkey=3grfma17max3vly33hgnrlne6&st=bv6mfpge&dl=1" type="audio/flac">
-  Dein Browser unterstuetzt das Audio-Element nicht.
+  <source src="https://www.dropbox.com/scl/fi/rvhrmrp2jcm4vqvgh9s60/01-REC-2025-10-24.wav?rlkey=uqse6pk3gmtfl5bo6e3rxpz6s&st=4t2dykq7&dl=1" type="audio/wav">
 </audio>
