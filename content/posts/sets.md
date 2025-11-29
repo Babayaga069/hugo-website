@@ -6,5 +6,7 @@ draft: false
 
 Set #1:
 
-{{< audio src="/audio/01 REC-2025-10-24.wav" type="audio/wav" >}}
-
+<audio controls>
+  <source src="https://share.zimaspace.com/r/6c230d7dacde4bf106a90b7c57711dc20e921c91" type="audio/mpeg">
+  Dein Browser unterstuetzt das Audio-Element nicht.
+</audio>

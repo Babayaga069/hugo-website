@@ -9,3 +9,6 @@ ShowShareButtons = true
 ShowReadingTime = true
 defaultTheme = "auto"
 
+[markup.goldmark.renderer]
+unsafe = true
+
