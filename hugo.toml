@@ -9,6 +9,32 @@ ShowShareButtons = true
 ShowReadingTime = true
 defaultTheme = "auto"
 
+[params.profileMode]
+  enabled = true
+  title = "Netscope-oversight"
+  subtitle = "This is subtitle"
+  imageUrl = "/img/me-smoke.jpg"
+  imageTitle = "Profilbild"
+  imageWidth = 120
+  imageHeight = 120
+
+[[params.profileMode.buttons]]
+  name = "Archive"
+  url = "/archive"
+
+[[params.profileMode.buttons]]
+  name = "Github"
+  url = "https://github.com/Babayaga069"
+
+[[params.socialIcons]]
+  name = "Instagram"
+  url = "https://www.instagram.com/shindy"
+
+[[params.socialIcons]]
+  name = "LinkedIn"
+  url = "https://linkedin.com/in/deinprofil"
+
+
 [markup.goldmark.renderer]
 unsafe = true
 
