@@ -74,7 +74,13 @@ theme = "PaperMod"
   weight = 20
 
   [[menu.main]]
-  identifier = "search"
-  name = "Search"
-  url = "/search/"
+  identifier = "about"
+  name = "About Me"
+  url = "/about/"
   weight = 30
+
+  [[menu.main]]
+  identifier = "search"
+  name = "🔍"
+  url = "/search/"
+  weight = 40
