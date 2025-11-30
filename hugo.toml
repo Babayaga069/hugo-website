@@ -14,8 +14,8 @@ theme = "PaperMod"
 
 [params.profileMode]
   enabled = true
-  title = "Netscope-oversight"
-  #subtitle = "This is subtitle"
+  title = "Netscope Oversight"
+  subtitle = "Network - Art - Communism"
   imageUrl = "/img/me-smoke.jpg"
   imageTitle = "Profilbild"
   imageWidth = 120
@@ -41,9 +41,9 @@ theme = "PaperMod"
     name = "Instagram"
     url = "https://www.instagram.com/shindy"
 
-  [[params.socialIcons]]
-    name = "LinkedIn"
-    url = "https://linkedin.com/in/deinprofil"
+  # [[params.socialIcons]]
+  #  name = "LinkedIn"
+  #  url = "https://linkedin.com/in/deinprofil"
 
 [params.fuseOpts]
   isCaseSensitive = false
