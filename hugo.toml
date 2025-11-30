@@ -1,15 +1,16 @@
 baseURL = "https://netscope-oversight.pages.dev/"
 title = "Netscope-oversight"
 theme = "PaperMod"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
 
 [params]
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowReadingTime = true
   defaultTheme = "auto"
   search = true
-
+  ShowPostNavLinks = true
+  
+[params.cover]
+  responsiveImages = false
 
 [params.profileMode]
   enabled = true
@@ -20,32 +21,29 @@ defaultContentLanguageInSubdir = false
   imageWidth = 120
   imageHeight = 120
 
-[[params.profileMode.buttons]]
-  name = "Archive"
-  url = "/archive"
+  [[params.profileMode.buttons]]
+    name = "Archive"
+    url = "/archive"
 
-[[params.profileMode.buttons]]
-  name = "Posts"
-  url = "/posts/"
+  [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "/posts/"
 
-[[params.profileMode.buttons]]
-name = "Search"
-url = "/search/"
+  [[params.profileMode.buttons]]
+  name = "Search"
+  url = "/search/"
 
-[[params.socialIcons]]
-  name = "Github"
-  url = "https://github.com/Babayaga069"
+  [[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/Babayaga069"
 
-[[params.socialIcons]]
-  name = "Instagram"
-  url = "https://www.instagram.com/shindy"
+  [[params.socialIcons]]
+    name = "Instagram"
+    url = "https://www.instagram.com/shindy"
 
-[[params.socialIcons]]
-  name = "LinkedIn"
-  url = "https://linkedin.com/in/deinprofil"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/deinprofil"
 
 [params.fuseOpts]
   isCaseSensitive = false
@@ -57,10 +55,12 @@ url = "/search/"
   keys = ["title", "permalink", "summary", "content"]
 
 [markup.goldmark.renderer]
-unsafe = true
+  unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [menu]
-
   [[menu.main]]
   identifier = "archive"
   name = "Archive"
