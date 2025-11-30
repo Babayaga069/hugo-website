@@ -2,6 +2,7 @@
 title: "S1 - BabyBlue"
 date: 2025-11-29
 draft: false
+tags: ["Music"]
 cover:
   image: "/img/Screenshot 2025-11-29 124841.png"
 ---
