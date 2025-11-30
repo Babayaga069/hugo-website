@@ -5,9 +5,11 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [params]
-ShowShareButtons = true
-ShowReadingTime = true
-defaultTheme = "auto"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  defaultTheme = "auto"
+  search = true
+
 
 [params.profileMode]
   enabled = true
@@ -49,9 +51,6 @@ defaultTheme = "auto"
   threshold = 0.4
   minMatchCharLength = 0
   keys = ["title", "permalink", "summary", "content"]
-
-
-
 
 [markup.goldmark.renderer]
 unsafe = true
