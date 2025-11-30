@@ -84,3 +84,7 @@ theme = "PaperMod"
   name = "Search"
   url = "/search/"
   weight = 40
+
+
+[taxonomies]
+  tag = "tags"

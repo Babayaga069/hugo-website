@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="terms-tags">
+  {{ range $name, $taxonomy := .Data.Terms.Alphabetical }}
+    <a href="{{ $taxonomy.Page.Permalink }}">{{ $name }} ({{ $taxonomy.Count }})</a>
+  {{ end }}
+</div>
+{{ end }}
