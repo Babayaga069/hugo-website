@@ -1,3 +1,8 @@
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'oldenglish', serif !important;
+body.home h1,
+body.home h2,
+body.home h3,
+body.home h4,
+body.home h5,
+body.home h6 {
+    font-family: 'oldenglish', serif !important;
 }
