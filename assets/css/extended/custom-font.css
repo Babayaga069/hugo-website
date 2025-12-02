@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "OldEnglish";
+    src: url("/fonts/oldenglish.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.custom-home-title {
+    font-family: "OldEnglish", serif;
+    font-size: 3rem; /* anpassen */
+}
