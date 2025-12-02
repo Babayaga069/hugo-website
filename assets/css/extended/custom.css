@@ -1,10 +1,3 @@
-body.home h1,
-body.home h2,
-body.home h3,
-body.home h4,
-body.home h5,
-body.home h6,
-body.home .first-entry h1,
-body.home .first-entry h2 {
+.profile_inner h1 {
     font-family: 'oldenglish', serif !important;
 }
