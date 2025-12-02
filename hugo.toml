@@ -8,6 +8,8 @@ theme = "PaperMod"
   defaultTheme = "auto"
   search = true
   ShowPostNavLinks = true
+  customCSS = ["css/custom.css"]
+
   
 [params.cover]
   responsiveImages = false
