@@ -1,5 +1,5 @@
 baseURL = "https://netscope-oversight.pages.dev/"
-title = "Netscope-oversight"
+title = ""
 theme = "PaperMod"
 
 [params]
