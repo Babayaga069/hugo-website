@@ -6,6 +6,6 @@
 }
 
 .custom-home-title {
-    font-family: "OldEnglish", serif;
+    font-family: "OldEnglish", serif !important; 
     font-size: 3rem; /* anpassen */
 }
