@@ -2,7 +2,7 @@
 title: "The Lab"
 date: 2026-02-11
 daft: false
-tags: ["Computer, Politics"]
+tags: ["Computer"],["Politics"]
 cover:
 ---
 There are like a few reasons why I not only startet whith this 'Hobby' but also why I think it will be the solouten in the near future for a lot of overseen problems.
