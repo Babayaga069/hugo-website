@@ -9,7 +9,6 @@ theme = "PaperMod"
   search = true
   ShowPostNavLinks = true
   customCSS = ["css/custom.css"]
-
   
 [params.cover]
   responsiveImages = false
