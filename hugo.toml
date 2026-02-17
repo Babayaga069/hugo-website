@@ -46,6 +46,10 @@ theme = "PaperMod"
   #  name = "LinkedIn"
   #  url = "https://linkedin.com/in/deinprofil"
 
+[params.footer]
+  text = "Impressum · Datenschutz"
+  hideCopyright = false
+
 [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true
