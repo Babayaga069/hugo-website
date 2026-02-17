@@ -1,5 +1,5 @@
 baseURL = "https://netscope-oversight.pages.dev/"
-title = ""
+title = "YXMA"
 theme = "PaperMod"
 
 [params]
@@ -15,7 +15,7 @@ theme = "PaperMod"
 
 [params.profileMode]
   enabled = true
-  title = " - YXMA - "
+  title = "YXMA"
   subtitle = "Network - Art - Communism"
   imageUrl = "/img/me-smoke.jpg"
   imageTitle = "Profilbild"
@@ -61,7 +61,7 @@ theme = "PaperMod"
 
 [params.label]
   text = "YXMA"
-  icon = "img/logo_cutout.png"
+  icon = "img/me-smoke.jpg"
   iconHeight = 30
 
 [markup.goldmark.renderer]
