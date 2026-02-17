@@ -61,7 +61,7 @@ theme = "PaperMod"
 
 [params.label]
   text = "YXMA"
-  icon = "img/me-smoke.jpg"
+  icon = "img/logo_cutout.png"
   iconHeight = 30
 
 [markup.goldmark.renderer]
