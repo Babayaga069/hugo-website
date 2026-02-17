@@ -9,7 +9,13 @@ theme = "PaperMod"
   search = true
   ShowPostNavLinks = true
   customCSS = ["css/custom.css"]
-  
+
+[params]
+  label = " "
+  logo = "/img/logo_cutout.png"
+  logoWidth = 30
+  logoHeight = 30
+
 [params.cover]
   responsiveImages = false
 
@@ -47,7 +53,7 @@ theme = "PaperMod"
   #  url = "https://linkedin.com/in/deinprofil"
 
 [params.footer]
-  text = "Impressum · Datenschutz"
+  text = "YXMA · all right reserved"
   hideCopyright = false
 
 [params.fuseOpts]
