@@ -9,8 +9,6 @@ theme = "PaperMod"
   search = true
   ShowPostNavLinks = true
   customCSS = ["css/custom.css"]
-
-[params]
   label = " "
   logo = "/img/logo_cutout.png"
   logoWidth = 30
