@@ -9,10 +9,6 @@ theme = "PaperMod"
   search = true
   ShowPostNavLinks = true
   customCSS = ["css/custom.css"]
-  label = " "
-  logo = "/img/logo_cutout.png"
-  logoWidth = 30
-  logoHeight = 30
 
 [params.cover]
   responsiveImages = false
@@ -62,6 +58,11 @@ theme = "PaperMod"
   threshold = 0.4
   minMatchCharLength = 0
   keys = ["title", "permalink", "summary", "content"]
+
+[params.label]
+  text = "YXMA"
+  icon = "/img/logo_cutout.png"
+  iconHeight = 30
 
 [markup.goldmark.renderer]
   unsafe = true
