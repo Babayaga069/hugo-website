@@ -14,5 +14,5 @@
 }
 
 #menu a:hover span {
-    border-bottom: 2px solid #ff6b6b;
+    border-bottom: 2px solid currentColor;
 }
